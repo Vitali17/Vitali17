@@ -26,4 +26,4 @@
 
 ---
 📫 **Cum dai de mine:**  
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vitali-cracan-68262a221/)) | [Email](mailto:cracanvitale@gmail.comm)
+[LinkedIn](https://www.linkedin.com/in/vitali-cracan-68262a221/) | [Email](mailto:cracanvitale@gmail.comm)
