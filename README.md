@@ -25,23 +25,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 Statistici GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=username-ul-tau&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=username-ul-tau&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 🔄 Activitate Recentă
-<!-- Startul secțiunii automate prin GitHub Actions -->
-* 📌 Proiecte recente la care am lucrat
-* 🚀 Contribuții și commit-uri recente
-<!-- Endul secțiunii automate -->
-
----
-
 📫 **Cum dai de mine:**  
-[LinkedIn](https://linkedin.com) | [Email](mailto:emailul-tau@domain.com)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/vitali-cracan-68262a221/)) | [Email](mailto:cracanvitale@gmail.comm)
