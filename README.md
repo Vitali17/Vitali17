@@ -1,7 +1,7 @@
-# Salut, sunt [Numele Tău] 👋
+# Salut, sunt Vitali👋
 
 ### 👨‍💻 Despre mine
-* 🎓 Student la **Inginerie** / **Calculatoare**
+* 🎓 Student la **Inginerie** / **Inginerie electrică **
 * 🛠️ Pasionat de **Embedded Systems**, **Microcontrollere (ESP32, Arduino)** și **Sisteme IoT**
 * 💻 Lucrez în **C / C++** pentru dezvoltare de software, structuri de date și simulări
 * 🌐 Experimentez cu integrarea senzorilor și transmiterea datelor în platforme precum **Firebase**
@@ -29,8 +29,8 @@
 ### 📊 Statistici GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-ul-tau&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-ul-tau&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=username-ul-tau&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=username-ul-tau&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
